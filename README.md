@@ -10,5 +10,5 @@ Practical Task
 #Example of ready Task functionality
 
 
-![Animated GIF](https://github.com/native-03-modals/template/modals-gif.gif)
+![Animated GIF]([https://github.com/native-03-modals/template/modals-gif.gif](https://github.com/native-03-modals/template/blob/main/modals-gif.gif)https://github.com/native-03-modals/template/blob/main/modals-gif.gif)
 
