@@ -9,6 +9,4 @@ Practical Task
 
 #Example of ready Task functionality
 
-
-![Animated GIF](https://github.com/native-03-modals/template/modals-gif.gif)
-
+<img src="./modals-gif.gif" width="220">
