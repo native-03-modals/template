@@ -1,4 +1,4 @@
-Practical Task
+# Practical Task
 
 1. Use App.js file to render the array of cards showing their titles
 2. All data is stored inside of the state
@@ -7,6 +7,6 @@ Practical Task
 5. Check your solution using npm test
 6. Push your solution to the repository
 
-#Example of ready Task functionality
+# Example of ready Task functionality
 
 <img src="./modals-gif.gif" width="220">
